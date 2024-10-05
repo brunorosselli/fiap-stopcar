@@ -98,13 +98,6 @@ Para fazer o POST e criar uma nova reserva, use o seguinte modelo:
 ### Entender como mudar o Time Zone no Docker:
 Solução alterar o Docker Composer.
   
-<!-- CONTACT -->
-## Contato
-
-- Milton Willamis da Silva - milton.willamis.silva@gmail.com
-- Bruno Eduardo Martins Rosselli - bruno.rosselli@hotmail.com
-- Bruno Araújo - brunosousa357@gmail.com
-
 Project Link: [https://github.com/postechfiapgrupo04/stopcar](https://github.com/postechfiapgrupo04/stopcar)
 
 <!-- ACKNOWLEDGMENTS -->
