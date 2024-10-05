@@ -1,18 +1,3 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="img/parking-meter.jpg">
-    <img src="img/parking-meter.jpg" alt="Logo" width="120" height="100">
-  </a>
-
-<h3 align="center">Stopcar</h3>
-
-  <p align="center">
-    Stopcar
-    <br />
-  </p>
-</div>
-
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
